@@ -136,10 +136,13 @@ SEO 是独立站的"免费长期流量"。技术 SEO + 关键词研究 + 内容�
 同样的流量,转化率提一点点就是真金白银。评论(社会证明)、加购 upsell、弃单恢复是回报最高的三类优化。
 
 - [Shopify App Store](https://apps.shopify.com/) — Shopify 官方应用市场,CRO / 营销 / 物流应用可按评分与安装量筛选。
+- [Shopify Flow](https://www.shopify.com/flow) — Shopify 官方无代码自动化工具,可自动处理库存、风控、客户分层与履约流程。
 - [Judge.me](https://judge.me/) — 高性价比评论应用,免费版无限评论、支持图文 / 视频 UGC 与 Google 富摘要。
 - [Loox](https://loox.app/) — 主打图文 / 视频评论,AI 排序与翻译,服饰 / 美妆等视觉品类提升转化明显。
+- [Yotpo](https://www.yotpo.com/) — 面向 DTC 品牌的评论、UGC、会员积分与推荐营销平台,适合做复购和社会证明。
 - [Vitals](https://vitals.app/) — 40+ 工具合一的 Shopify CRO 套件,评论 / upsell / 弹窗 / 加购一站替代多个 App。
 - [ReConvert](https://www.reconvert.io/) — 把"感谢页"变成一键追加销售的引擎,bundle、智能推荐与 A/B 测试提升客单价。
+- [Loop Returns](https://www.loopreturns.com/) — DTC 退换货与售后体验平台,通过换货、店铺积分和物流追踪减少退款损失。
 - [Hotjar](https://www.hotjar.com/) — 热力图 + 会话录像 + 调查,看清用户在哪里犹豫、在哪里流失。
 - [VWO](https://vwo.com/) — A/B 测试与实验平台,系统化验证落地页、文案、按钮的转化改进。
 
@@ -159,11 +162,13 @@ SEO 是独立站的"免费长期流量"。技术 SEO + 关键词研究 + 内容�
 做全球生意,语言 / 货币本地化与物流追踪直接影响信任与复购。按目标市场配置,别一次铺太多语言。
 
 - [Weglot](https://www.weglot.com/) — 全站自动翻译,覆盖产品页 / 购物车 / 结账,支持多语言、可视化切换器,无需改代码。
+- [Shopify Markets](https://www.shopify.com/markets) — Shopify 多市场管理功能,集中配置国家 / 地区、货币、语言、本地化定价与域名结构。
 - [TranslatePress](https://translatepress.com/) — WordPress 前端可视化翻译插件,直接在页面上点选翻译,WooCommerce 全兼容。
 - [WPML](https://wpml.org/) — 老牌 WordPress 多语言插件,适合大规模 / 团队协作的多语言站点。
 - [LangShop](https://langshop.io/) — Shopify 翻译 + 货币切换应用,AI 翻译 + 按地区自动切换货币。
 - [17TRACK](https://www.17track.net/) — 支持上千家快递商的物流追踪平台,可同步订单、自动发追踪通知。
 - [AfterShip](https://www.aftership.com/) — 品牌化物流追踪与退货管理,自定义追踪页提升售后体验与复购。
+- [Shippo](https://goshippo.com/) — 多承运商运费比价、面单打印与物流 API,适合独立站统一管理跨境发货与追踪。
 
 ## 🕵️ 选品与竞品分析
 
