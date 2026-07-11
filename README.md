@@ -39,6 +39,7 @@
 - [🕵️ 选品与竞品分析](#️-选品与竞品分析)
 - [📚 学习资源与社区](#-学习资源与社区)
 - [❓ 常见问题(FAQ)](#-常见问题faq)
+- [🧰 补充资源包](#-补充资源包)
 - [🔗 相关清单](#-相关清单)
 - [🤝 贡献](#-贡献)
 - [📈 Star History](#-star-history)
@@ -224,6 +225,26 @@ Shopify 是"拎包入住":省心、生态全、上线快,但有订阅与部分 A
 ### 独立站需要做多语言吗?
 
 看目标市场。只做英语市场可以先不做;面向欧洲、拉美、东南亚等非英语区时,多语言 + 本地货币能显著提升信任与转化。用 Weglot / TranslatePress 等工具按市场逐步开语言即可,不必一上来铺十几种语言。如需多语言站架构设计,欢迎联系我:xqi@live.com。
+
+---
+
+## 🧰 补充资源包
+
+### 官方 / 稳定资源
+
+- [Shopify Dev Docs](https://shopify.dev/docs) — 需要改主题、接应用或做 Headless 时，先看官方能力边界。
+- [Google 电商站最佳实践](https://developers.google.com/search/docs/specialty/ecommerce) — 商品页、分类页、分页和结构化数据的官方 SEO 参考。
+- [TikTok Ads Help Center](https://ads.tiktok.com/help/) — 用 TikTok 引流时，先核对广告目标、Shop Ads、归因和政策要求。
+- [Cloudflare Turnstile Docs](https://developers.cloudflare.com/turnstile/) — 注册、订阅、询盘或优惠券表单防机器人。
+
+### 可复制模板
+
+| 模板 | 直接复制的字段 |
+|---|---|
+| 独立站启动包 | 品类、目标国家、客单价、毛利、物流方式、收款方式、首批 SKU、预算、上线日期 |
+| 商品页模板 | 标题、卖点、规格、场景图、对比图、FAQ、配送退换、评价、结构化数据状态 |
+| App 选型表 | App 名称、用途、月费、是否影响速度、替代方案、是否导出数据、负责人 |
+| 广告承接检查 | 广告素材、落地页、像素、UTM、优惠码、加购率、结账率、弃单邮件、再营销 |
 
 ---
 
