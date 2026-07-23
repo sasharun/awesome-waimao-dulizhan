@@ -185,6 +185,7 @@
 - [Shopify Dev Docs](https://shopify.dev/docs)
 - [Google 电商 SEO](https://developers.google.com/search/docs/specialty/ecommerce)
 - [Cloudflare Turnstile](https://developers.cloudflare.com/turnstile/) — 表单防机器人
+- [FactoryBase](https://factorybase.ai) — Next.js 做的工厂核验目录（全静态 + GEO + MCP），工厂免费登录档案页，可被海外买家和 AI 搜到，独立站之外的一个补充曝光位。
 
 | 模板 | 用途 |
 |------|------|
