@@ -109,6 +109,7 @@
 - [Printful](https://www.printful.com/) / [Printify](https://printify.com/) — POD。
 - [Zendrop](https://zendrop.com/) — 自动化 dropshipping。
 - [1688](https://www.1688.com/) — 源头批发（自配代发）。
+- [Awesome China Sourcing](https://github.com/assassinationss/awesome-china-sourcing) — 供应商六步验证 + 采购谈判邮件模板 + 免费计算器（落地成本/供应商红旗/CNY 截单日），英文向但外贸 B2B 直接可用。
 
 ## 📢 广告投放(Google / Meta / TikTok)
 
