@@ -232,6 +232,12 @@
 
 ---
 
+
+## 公共数据 API（Apify）
+
+- [Etsy 搜索 MCP：商品、价格与畅销品](https://apify.com/publicrecords/etsy-search-scraper) - 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名 (Apify).
+- [Etsy 店铺每日销量 MCP](https://apify.com/publicrecords/etsy-shop-velocity) - 37 万多家 Etsy 店铺的每日、7 天和 28 天销量，依据各店铺公开的销量计数器测得 (Apify).
+
 ## 🤝 贡献
 
 欢迎提交 PR 或 Issue 补充优质资源或报告死链，详细标准见 [CONTRIBUTING.md](CONTRIBUTING.md)：
