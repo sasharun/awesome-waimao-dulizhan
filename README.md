@@ -178,6 +178,7 @@
 - [Koala Inspector](https://koala-apps.io/)
 - [Sell The Trend](https://www.sellthetrend.com/) / [Exploding Topics](https://explodingtopics.com/)
 - [SimilarWeb](https://www.similarweb.com/)
+- [TKMetrics](https://tkmetrics.com/trends/) — 免费查看 19 个地区的 TikTok 热门话题，并追踪标签播放量与视频数变化，选品前可先验证某个品类在 TikTok 上的热度。
 
 ## 📚 学习资源与社区
 
